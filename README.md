@@ -36,3 +36,28 @@ It can collect hardware transmission signals based on TCP connection, including 
 ```bash
 git clone https://github.com/qxiongx/pyQt.git
 cd pyQt
+
+
+
+This README provides:
+1. Project overview
+2. Installation instructions
+3. Usage guide
+4. Technical details
+5. Project structure
+6. Contributing guidelines
+7. Contact information
+8. Version history
+
+You can customize it further based on your specific needs.
+This README provides:
+1. Project overview
+2. Installation instructions
+3. Usage guide
+4. Technical details
+5. Project structure
+6. Contributing guidelines
+7. Contact information
+8. Version history
+
+You can customize it further based on your specific needs.

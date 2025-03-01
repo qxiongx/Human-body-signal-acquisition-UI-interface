@@ -29,16 +29,6 @@ It can collect hardware transmission signals based on TCP connection, including 
 - Joblib
 - Matplotlib
 - Pandas
-
-## Installation
-
-1. Clone the repository
-```bash
-git clone https://github.com/qxiongx/pyQt.git
-cd pyQt
-
-
-
 ## This README provides:
 1. Project overview
 2. Installation instructions
@@ -61,3 +51,12 @@ This README provides:
 8. Version history
 
 You can customize it further based on your specific needs.
+## Installation
+
+1. Clone the repository
+```bash
+git clone https://github.com/qxiongx/pyQt.git
+cd pyQt
+
+
+

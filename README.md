@@ -34,7 +34,7 @@ It can collect hardware transmission signals based on TCP connection, including 
 
 1. Clone the repository
 ```bash
-git clone https://github.com/qxiongx/pyQt.git
+git clone [https://github.com/qxiongx/pyQt.git](https://github.com/qxiongx/Human-body-signal-acquisition-UI-interface)
 cd pyQt
 
 

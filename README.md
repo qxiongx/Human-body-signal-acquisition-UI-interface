@@ -39,7 +39,7 @@ cd pyQt
 
 
 
-This README provides:
+## This README provides:
 1. Project overview
 2. Installation instructions
 3. Usage guide
